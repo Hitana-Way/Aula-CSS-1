@@ -1,0 +1,45 @@
+h1 {
+    color: #812222;
+    background: linear-gradient(90deg, #fcdddd, #d68282, #d13e3e);
+}
+
+.primeira-caixa {
+    background: linear-gradient(90deg, #111111, #3331a7, #110303);
+    color: #d6d6d6;
+    padding: 30px;
+    margin: 5px;
+    border: 8px solid rgb(0, 0, 0);
+}
+
+.caixa {
+    color: #a72016;
+    padding-left: 80px;
+    margin-top: 10px;
+    padding: 30px;
+    margin: 5px;
+    border: 8px solid black
+}
+
+.caixa-meio{
+    background: linear-gradient(90deg, #a122d3, #b111a3, #54085e);
+    padding: 30px;
+    margin: 5px;
+    border: 8px solid black
+}
+
+#ultima-caixa {
+    color: #5f0464;
+    background-color:#8cf5ab;
+    padding-top: 80px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+#paragrafo {
+    background-color: #ffffff;
+    border: 8px solid black;
+    padding: 30px;
+    background-image:linear-gradient(180deg, rgb(25, 0, 255), rgb(178, 192, 255));
+}
+
+
